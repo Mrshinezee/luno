@@ -5,6 +5,7 @@ import { createStackNavigator, createAppContainer, createDrawerNavigator} from "
 import HomeScreen from '../screens/HomeScreen';
 import LinkScreen from '../screens/LinkScreen';
 import SettingScreen from '../screens/SettingScreen';
+import CreateTradeScreen from '../screens/CreateTrade'
 
 const WIDTH = Dimensions.get('window').width;
 
@@ -23,6 +24,9 @@ const DrawerNavigator = createDrawerNavigator(
     },
     Setting: {
       screen: SettingScreen
+    },
+    CreateTrade: {
+      screen: CreateTradeScreen
     }
   },
   DrawerConfig
