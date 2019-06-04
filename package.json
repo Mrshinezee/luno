@@ -7,11 +7,20 @@
     "test": "jest"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.18",
+    "@fortawesome/free-solid-svg-icons": "^5.8.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
     "react": "16.8.3",
     "react-native": "0.59.8",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-elements": "^1.1.0",
     "react-native-gesture-handler": "^1.2.1",
     "react-native-hamburger": "^0.0.2",
-    "react-navigation": "^3.10.1"
+    "react-native-modal": "^11.0.1",
+    "react-native-vector-icons": "^6.4.2",
+    "react-navigation": "^3.10.1",
+    "react-select": "^3.0.3",
+    "styled-components": "^4.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
