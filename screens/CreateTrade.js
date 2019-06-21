@@ -191,7 +191,7 @@ const ClickableAvatar = styled.TouchableOpacity`
 `;
 
 
-export default class CreateTrade extends Component{
+class CreateTrade extends Component{
     // constructor(props) {
     //     super(props);
     //     this.state = {
@@ -322,6 +322,7 @@ export default class CreateTrade extends Component{
     );
   }
 }
+export default CreateTrade;
 
 const styles = StyleSheet.create({
   container: {
