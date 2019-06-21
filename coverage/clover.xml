@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1561126131873" clover="3.2.0">
+  <project timestamp="1561126131873" name="All files">
+    <metrics statements="12" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="2" elements="19" coveredelements="12" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
+    <file name="Button.js" path="/Users/collinsijeomah/Documents/html/react-native/luno/components/Button.js">
+      <metrics statements="12" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="2"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="24" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
